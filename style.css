@@ -21,6 +21,7 @@
     width: 200px;
     height: 200px;
     background-color: chartreuse;
-    border-radius: 50%;
+    border-radius: 20%;
     text-align: center;
+    margin-left: 200px;
 }
